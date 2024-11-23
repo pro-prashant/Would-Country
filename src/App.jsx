@@ -6,7 +6,7 @@ import Home from './pages/Home'
 import About from './pages/About'
 import Country from './pages/Country'
 import Contact from './pages/Contact'
-import ErrorPage from './components/UI/errorpage'
+import ErrorPage from './components/UI/ErrorPage'
 import CountryDetails from './components/Layout/CountryDetails'
 
 function App() {
